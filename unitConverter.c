@@ -21,9 +21,6 @@ I have made a major change in flow of the program
 it all works but i want to add some more functionablitty in exits/Restart/
 I have no issues now but i plan to add more as we go.
 
-
-
-
 */
 
 
@@ -137,17 +134,5 @@ int main(void)
 	// TODO: Make a better User Interface
 	printf("			 Unit Conversion\n"); // Name of text program
 	menu1();
-	
-
-
-	
-
-
-
-
-	
-	
-
-
 }
 
