@@ -21,6 +21,14 @@ I have made a major change in flow of the program
 it all works but i want to add some more functionablitty in exits/Restart/
 I have no issues now but i plan to add more as we go.
 
+Dev.Log 2/14/2024
+Big Refactor coming :)
+Good Job Old Noah But Ill Take It from Here
+- Planned Changes
+Changing to C++ (Maybe)
+Graphics Libary(Menus and Buttons)
+If you had only known about switch cases
+
 */
 
 
